@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">트래블 메이커</string>
+    <!--관광 open api -->
+    <string name="api_url">http://api.visitkorea.or.kr/openapi/service/rest/KorService/searchKeyword?ServiceKey=</string>
+    <string name="api_key">raZuOYxchxj3qVAPb8URBpBZFni%2Fg4PHlBu2A5m5Li8kVeGxaU0EeougtOJO%2FnIhcj1KGkqo7uHpp4Meb7c7pA%3D%3D</string>
+
+    <!--구글 api-->
+    <string name="google_api_key">AIzaSyCwZBRLcoy9LLnoazzBpi-qyg6q9xRIDY4</string>
+    <string name="no_address_found">주소를 찾을 수 없습니다.</string>
+    <string name="address_found">주소를 찾았습니다.</string>
+</resources>
