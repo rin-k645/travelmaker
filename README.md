@@ -3,10 +3,11 @@
 <div align="center">여행 관리 앱</div>
 <div align="center"><b>트래블메이커</b></div>
 
-&nbsp;
+<br/><br/><br/><br/><br/>
 
 # 프로젝트 소개
-2020년도 2학기 모바일 응용 개인 프로젝트
+- 2020년도 2학기 모바일 응용 개인 프로젝트
+- 개발 기간 : 2020.12.15~2020.12.23
 
 &nbsp;
 
@@ -26,9 +27,13 @@
 
 &nbsp;
 
-[프로젝트 보고서(2020.12)](https://drive.google.com/file/d/1uJSj9Y0dvJKpaAexkZrtir73yO15JLnT/view?usp=sharing)
+[프로젝트 메뉴얼(2020.12 ver)](https://drive.google.com/file/d/1uJSj9Y0dvJKpaAexkZrtir73yO15JLnT/view?usp=sharing)
 
 &nbsp;
 
 # 시연 영상
-[시연 영상(2020.12)](https://drive.google.com/file/d/1m3unBvLAd4WtjzC7GbgP02WO3qGcVSO9/view?usp=sharing)
+[시연 영상 전체(2020.12 ver)](https://drive.google.com/file/d/1m3unBvLAd4WtjzC7GbgP02WO3qGcVSO9/view?usp=sharing)
+
+![travelmaker_1](https://user-images.githubusercontent.com/67595512/160784373-cba0919b-ac5a-4a88-9dcc-c083e3684fdc.gif)
+![travelmaker_2](https://user-images.githubusercontent.com/67595512/160785083-db648e2c-df34-4e77-a220-8a9b826648ef.gif)
+![travelmaker_3](https://user-images.githubusercontent.com/67595512/160785619-5f0fa6fe-b1cf-4acf-9b75-afff728ec4cf.gif)
